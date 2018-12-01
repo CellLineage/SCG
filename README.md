@@ -22,7 +22,7 @@ and the mutation accumulate in semi-conservative way.
 
 
 <p align="center">
-  <img src="docs/T1.png" alt="T1" title="T1" width="230" height="230" hspace="150"> <img src="docs/T2.png" alt="T2" title="T2" width="230" height="230" hspace="150">
+  <img src="docs/T1.png" alt="T1" title="T1" width="230" height="230" hspace="50"> <img src="docs/T2.png" alt="T2" title="T2" width="230" height="230" hspace="50">
 </p>
 
 
